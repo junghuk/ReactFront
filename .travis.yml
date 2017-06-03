@@ -13,7 +13,7 @@ deploy:
   access_key_id: AKIAI5JEIAO44GKQ36RQ
   secret_access_key:
     secure: dU/2E64h+25bPtU6Xb3FP3FgYCHJglwU7ujsrlbPea/nEaXH2VXQLSM0oVM2VngdVzDD6fTwxlVrO1vroA/KFXdX9QWs89eESVWZ37YpZv82DB/pHK58ia+khak3hX2XRUtupZO+5BGLGye0VdTLwT29H2JcZNcXMgvrlERJcTTaus6moa6VWaWK4lLu8STPCVimPFTjSDgn1fClb6fuO4HZd4yXiIQQP4wuXIm9wAI8PKgKIt4SkX/rr2sEaZDhiTBGY51RLLlPMDwgD/dCL/1R9/gelviM+bNgG2OOK248yjQIaD++rpPjP82pL1Ke1cpOSoiwvZr1e2KWSYpZ3Nj0207cGui1jmfo3l0N0sb4l8eT8m7r089Fa0UlWVGCXYOYFxovCLzg3++TkGaIckbhbkq/eY43FBg42YAP1ifkkbnI5zBkbk5XBLu5czCuZC43i5d7MJ+n8MmxrZ14HWL3DLxHHi9sGJMSvcP7CSPiUxtozpvpA+r24AmBLq4dOKwDd6CfagTNUdU8oMvcFLItS7lFKJC1+tsUNesJFCH0rOYhjH4liq1np9pT+NmzhmKJcjPgx73L87Kxl8v90VrI8fsQxVk/5rO8uBYaM+nGywvGD/rzWFd9eHlhUAtPvyNUCL8sLaafveOZs3ay2wpcQNutTr0AwnzZibsi2o4=
-  bucket: reactfront
+  bucket: http://reactfront.s3-website-us-west-2.amazonaws.com/reactfront
   skip_cleanup: true
   acl: public_read
   region: eu-west-2
