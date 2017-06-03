@@ -1,5 +1,6 @@
 {
   "name": "reactfront",
+  "homepage": "https://s3-us-west-2.amazonaws.com/reactfront",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
